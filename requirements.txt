@@ -1,7 +1,3 @@
 streamlit
-pandas
-python
-tiktoken
-openai
 PyMuPDF
 
