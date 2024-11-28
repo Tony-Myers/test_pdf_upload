@@ -1,1 +1,7 @@
-fitz
+streamlit
+pandas
+python
+tiktoken
+openai
+PyMuPDF
+
